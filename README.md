@@ -66,3 +66,9 @@ but it was not performing well on competetion images.
 of images through data augmentation, i.e using Data Generator from Keras. However, 
 due to uneven changes, this step reduced the accuracy drastically from 95% to 9%.
 Hence, we discarded it.
+
+
+The model gave the following results:
+![Screenshot 2022-04-12 134601](https://user-images.githubusercontent.com/77509449/162914126-51d5d6e1-e9f1-4e1b-adb9-9e0b34c58f34.png)
+![Screenshot 2022-04-12 134653](https://user-images.githubusercontent.com/77509449/162914240-f75da1dc-df4e-454a-af8e-029998b53af2.png)
+
